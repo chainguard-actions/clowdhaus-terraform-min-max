@@ -1,7 +1,7 @@
 {
   "owner": "clowdhaus",
   "name": "terraform-min-max",
-  "visibility": "internal",
+  "visibility": "public",
   "description": "GitHub action used to evaluate the Terraform minimum and maximum versions permitted",
   "block_publish": false
 }
