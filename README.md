@@ -8,8 +8,8 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1.4.1 | [`v1.4.1`](https://github.com/chainguard-actions/clowdhaus--terraform-min-max/tree/v1.4.1) | — |
-| v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/clowdhaus--terraform-min-max/tree/v2.0.0) | — |
+| v1.4.1 | [`v1.4.1`](https://github.com/chainguard-actions/clowdhaus-terraform-min-max/tree/v1.4.1) | — |
+| v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/clowdhaus-terraform-min-max/tree/v2.0.0) | — |
 
 ## Privacy
 
