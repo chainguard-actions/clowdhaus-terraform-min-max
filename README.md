@@ -10,6 +10,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 |---------|-----|-----------------|
 | v1.4.1 | [`v1.4.1`](https://github.com/chainguard-actions/clowdhaus-terraform-min-max/tree/v1.4.1) | — |
 | v2.0.0 | [`v2.0.0`](https://github.com/chainguard-actions/clowdhaus-terraform-min-max/tree/v2.0.0) | — |
+| v3.0.1 | [`v3.0.1`](https://github.com/chainguard-actions/clowdhaus-terraform-min-max/tree/v3.0.1) | [`5e40f8c`](https://github.com/clowdhaus/terraform-min-max/commit/5e40f8cf535d84fbd031571abd363ffd81dbfbfc) |
 
 ## Privacy
 
